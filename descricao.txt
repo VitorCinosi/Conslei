@@ -1,0 +1,52 @@
+Tema:
+Um sistema que atualiza em tempo real a disponibilidade de leitos nos hospitais.
+
+Detalhes:
+
+Um sistema onde o hospital irá fazer o cadastro de todos os leitos disponiveis e conseguira dar baixa assim que o leito for ocupado, e o publico terá acesso somente para ver os leitos disponiveis de cada hospital.
+Ao abrir o aplicativo o usuário irá se deparar com uma tela de login separando-o de um usuário comum com o de um hospital, onde o hospital tem o poder de modificar os leitos e o usuário somente leitura.
+O aplicativo funcionará baseado no local do CEP que o usuário descrever, mostrando os hospitais com leitos disponiveis nas proximidades.
+
+Nome:
+Codele-Consulta de leitos  
+Conslei-Consulta de leitos
+
+
+um sistema que faria o cadastro dos hospitais, e o número de uti's disponíveis pro samu utilizar, ai mostrava em ordem os hospitais com mais uti's
+
+
+
+
+Leonardo de Souza Pereira
+821131124
+
+Renan Moraes Vieira
+820148945
+
+Raphael Pereira Malvar
+82018756
+
+Marcelo Santana Alves
+820139889
+
+Vitor de Mendonça Cinosi
+820114758
+
+Enzzo Pereira da Silva
+820134464
+
+
+
+hospitais
+leitos de enfermaria
+leitos de uti
+leitos de uti neo-natal
+clinicos e cirurgiões
+equipamento
+samu
+usuario comum
+
+
+
+
+
